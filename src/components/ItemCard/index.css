@@ -1,0 +1,51 @@
+.item-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+.item-details {
+  margin-left: 10px;
+}
+.item-image {
+  height: 150px;
+  width: 250px;
+  border-radius: 8px;
+}
+.item-name {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 700;
+}
+.item-cost {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+}
+.rating-section {
+  padding-top: 0px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+}
+.star1 {
+  color: #ffcc00;
+  height: 12px;
+  width: 12px;
+  margin-top: 13px;
+}
+.rating {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 14px;
+}
+.add-btn {
+  background-color: transparent;
+  color: #ffa412;
+  border-color: #ffa412;
+  border-style: solid;
+  border-radius: 3px;
+}

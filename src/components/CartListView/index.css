@@ -1,0 +1,54 @@
+.order-total {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.cart-list {
+  background-color: #f9fbfe;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-width: 1px;
+}
+.order {
+  font-weight: 400;
+  color: #3e4c59;
+}
+.place-order {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 250px;
+  margin-bottom: 50px;
+}
+.place-order-btn {
+  background-color: #f7931e;
+  border-radius: 8px;
+  color: #ffffff;
+  height: 40px;
+  width: 90px;
+  border-style: none;
+}
+.total {
+  font-weight: 500;
+  font-size: 24px;
+  color: #3e4c59;
+}
+
+.cart-list-line {
+  width: 95vh;
+}
+
+.cart-header-items {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 25px;
+}
+
+.cart-title-heading1 {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #475569;
+}

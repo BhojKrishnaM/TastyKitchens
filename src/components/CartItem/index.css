@@ -1,0 +1,49 @@
+.cart-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+.quantity-control {
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+.cart-item-display-image {
+  height: 80px;
+  width: 110px;
+  margin-right: 4px;
+}
+.item-display {
+  display: flex;
+  align-items: center;
+}
+
+.item-name {
+  font-family: DM Sans;
+  font-weight: 500;
+  font-size: 15px;
+  color: #183b56;
+}
+
+.cart-list-quantity-button {
+  height: 18px;
+  width: 18px;
+  border-radius: 2.25px;
+  border: 0px;
+}
+
+.cart-list-item-quantity {
+  font-family: DM Sans;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.cart-item-cost-style {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffa412;
+  margin-right: 60px;
+}

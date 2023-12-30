@@ -1,0 +1,66 @@
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f8fafc;
+  height: 80px;
+}
+.navLogo {
+  height: 40px;
+  width: 50px;
+}
+.logo-cont {
+  display: flex;
+  align-items: center;
+}
+.options-cont {
+  display: flex;
+  align-items: center;
+}
+.navTitle {
+  font-family: DM Sans;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 35px;
+  color: #f7931e;
+  text-decoration: none;
+}
+.navTitleLink {
+  text-decoration: none;
+}
+.navMenu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-right: 5px;
+}
+.logoutBtn {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 12px;
+  color: #ffffff;
+  height: 30px;
+  width: 90px;
+  background-color: #f7931e;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+.navLink {
+  color: #f7931e;
+  text-decoration: none;
+  margin-right: 18px;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: DM Sans;
+}
+
+.navLink1 {
+  color: black;
+  text-decoration: none;
+  margin-right: 18px;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: DM Sans;
+}

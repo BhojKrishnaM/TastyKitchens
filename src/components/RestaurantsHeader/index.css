@@ -1,0 +1,39 @@
+.sortByContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.restaurantsHeader {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.restaurantsHeading {
+  font-family: DM Sans;
+  font-size: 32px;
+  font-weight: 700;
+  color: #183b56;
+}
+.sortBy {
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 500;
+}
+.chooseDescription {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  color: #64748b;
+}
+
+.sortByIcon {
+  height: 24px;
+  width: 24px;
+}
+
+.selectOption {
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 500;
+}

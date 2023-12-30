@@ -1,0 +1,30 @@
+.not-found-container {
+  text-align: center;
+}
+
+.not-found-heading {
+  font-family: DM Sans;
+  font-size: 32px;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+.not-found-para {
+  font-family: DM Sans;
+  font-size: 32px;
+  font-weight: 700;
+  color: #475569;
+}
+
+.home-button-not-found {
+  height: 48px;
+  width: 123px;
+  border-radius: 4px;
+  background-color: #f7931e;
+  color: white;
+  border: 0px;
+}
+
+.not-found-page {
+  min-height: 100vh;
+}
