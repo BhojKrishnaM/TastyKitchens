@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-    HTML5,CSS3,ReactJs
+    HTML5,CSS3,JavaScript,ReactJs
 ## Important
    1)Username:rahul
    2)Password:rahul@2021
@@ -49,19 +49,6 @@
 #### Must Have
 
     1) Host the code on a GitHub repository.
-
-## Resources
-
-### Design files
-
-    1) Get Carousel Images:'https://apis.ccbp.in/restaurants-list/offers'
-
-### APIs
-
-    1) Get Request Token:'https://apis.ccbp.in/login'
-    2) Get Restaurants List:'https://apis.ccbp.in/restaurants-list?offset=${offset}&limit=${LIMIT}'
-    3) Search Functionality:'https://apis.ccbp.in/restaurants-list?search=${searchInput}'
-    4) Get Restaurant Details:'https://apis.ccbp.in/restaurants-list/${restrauntId}'
 
 ### Third-party packages
 
