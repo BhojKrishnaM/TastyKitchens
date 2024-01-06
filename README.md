@@ -10,8 +10,8 @@
 
     HTML5,CSS3,ReactJs
 ## Important
-   ***)Username:rahul
-   ***)Password:rahul@2021
+   1)Username:rahul
+   2)Password:rahul@2021
 
 ## Completion Instructions
 
